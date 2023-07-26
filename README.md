@@ -1,4 +1,4 @@
-# Wave-Vision-dataset-and-code
+# Foil-Net-dataset-and-code
 
 Abstract: Hydrofoil surfing or "foiling", is a distinct subclass of surfing, where riders navigate unbroken waves while elevated above the water's surface through the use of a hydrofoil affixed to the underside of the surfboard. Foiling has been popularized due to an increase in riding distance capabilities. In particular, the downwind technique allows riders to surf on open ocean wind swells taking advantage of the hydrofoil's hydrodynamic ability to generate lift. However, the downwind technique in hydrofoil surfing maintains a high barrier to entry for novice users due to the real-time task of visually identifying and transitioning between the frequently changing wind waves. Thus, there arises a need for a user-friendly system capable of prompt identification and assessment of wave quality for foiling. To meet this demand, we propose Wave Vision, a wave classification tool developed for hydrofoil surfing. Wave Vision leverages a combination of an autoencoder and convolutional neural network (CNN)  classifier to categorize and index waves based on their suitability for hydrofoil surfing.
 
